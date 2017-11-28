@@ -9,3 +9,4 @@ VueJs, thank you very much.
 Signed,
 
 * Leandro Henrique ([@emtudo](https://github.com/emtudo)), Software Engineer, VueJs Lover, Curitiba, Brazil
+* Tiago Rodrigues ([@tiagosilvapereira](https://github.com/TiagoSilvaPereira)), Software Engineer & VueJS Lover, Brazil
